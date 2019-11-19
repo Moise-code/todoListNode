@@ -2,10 +2,11 @@
      "name": "the-todolist",
      "version": "0.1.O",
      "dependencies": {
-          "body-parser": "~1.19.0",
-          "cookie-session": "~1.3.3",
-          "ejs": "~2.7.2",
-          "express": "^4.17.1"
+          "body-parser": "^1.19.0",
+          "cookie-session": "^1.3.3",
+          "ejs": "^2.7.3",
+          "express": "^4.17.1",
+          "express-session": "^1.17.0"
      },
      "author": "Moise <mois_ns@outlook.com>",
      "description": "Première todo list sur node"
